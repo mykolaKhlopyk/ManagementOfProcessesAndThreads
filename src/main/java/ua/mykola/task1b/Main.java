@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
         JSemaphore mySemaphore=new JSemaphore();
 
-        //створюємо необхідні обєкти для  swing
+
         JFrame f = new JFrame();
         JSlider slider = new JSlider(0, 100, 50);
         JButton buttonStart1 = new JButton("Start1");
@@ -27,7 +27,6 @@ public class Main {
         JSpinner increment = new JSpinner(value1);
         JSpinner decrement = new JSpinner(value2);
 
-        //задаємо розміри
         slider.setBounds(50, 100, 250, 60);
         increment.setBounds(50, 200, 100, 40);
         decrement.setBounds(200, 200, 100, 40);
@@ -36,7 +35,6 @@ public class Main {
         buttonStop1.setBounds(50, 400, 100, 40);
         buttonStop2.setBounds(200, 400, 100, 40);buttonStart1.setBounds(50, 300, 100, 40);
 
-        // неважливо (задаємо вигляд слайдеру)
         slider.setPaintTrack(true);
         slider.setPaintTicks(true);
         slider.setPaintLabels(true);
@@ -81,7 +79,6 @@ public class Main {
                 }
             }
         });
-        //заповнюєм фрейм
         f.add(increment);
         f.add(decrement);
         f.add(buttonStart1);
@@ -91,7 +88,7 @@ public class Main {
         f.add(slider);
 
         f.setSize(360, 500);
-        f.setLayout(null);//using no layout managers
-        f.setVisible(true);//making the frame visible
+        f.setLayout(null);
+        f.setVisible(true);
     }
 }

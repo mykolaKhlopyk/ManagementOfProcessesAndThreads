@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8f3f95e-a1ba-4552-8c25-3ae571eac41a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ManagementOfProcessesAndThreads.iml" afterDir="false" />
+    <list default="true" id="e8f3f95e-a1ba-4552-8c25-3ae571eac41a" name="Changes" comment="firstLab">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/task1a/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/task1a/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/task1b/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/task1b/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,16 @@
       <workItem from="1662742671521" duration="14000" />
       <workItem from="1662750692182" duration="2464000" />
       <workItem from="1662754219812" duration="1402000" />
+      <workItem from="1662806464597" duration="382000" />
     </task>
+    <task id="LOCAL-00001" summary="firstLab">
+      <created>1662806705690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662806705690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,10 +78,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="firstLab" />
+    <option name="LAST_COMMIT_MESSAGE" value="firstLab" />
   </component>
 </project>
