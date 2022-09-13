@@ -1,4 +1,4 @@
-package main.java.ua.mykola.task1b;
+package main.java.ua.mykola.lab1.task1b;
 
 public class JSemaphore {
     private int threadNumber;

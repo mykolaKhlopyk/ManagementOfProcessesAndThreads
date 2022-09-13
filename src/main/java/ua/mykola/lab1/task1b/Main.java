@@ -1,7 +1,7 @@
-package main.java.ua.mykola.task1b;
+package main.java.ua.mykola.lab1.task1b;
 
-import main.java.ua.mykola.task1a.JThread;
-import main.java.ua.mykola.task1a.SIGN;
+import main.java.ua.mykola.lab1.task1a.JThread;
+import main.java.ua.mykola.lab1.task1a.SIGN;
 
 import javax.swing.*;
 

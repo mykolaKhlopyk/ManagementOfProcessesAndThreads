@@ -1,4 +1,4 @@
-package main.java.ua.mykola.task1a;
+package main.java.ua.mykola.lab1.task1a;
 
 import javax.swing.*;
 

@@ -1,6 +1,6 @@
-package main.java.ua.mykola.task1a;
+package main.java.ua.mykola.lab1.task1a;
 
-import main.java.ua.mykola.task1b.JSemaphore;
+import main.java.ua.mykola.lab1.task1b.JSemaphore;
 
 import javax.swing.*;
 
