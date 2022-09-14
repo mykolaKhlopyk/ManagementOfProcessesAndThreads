@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8f3f95e-a1ba-4552-8c25-3ae571eac41a" name="Changes" comment="delete comments">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Main.java" afterDir="false" />
+    <list default="true" id="e8f3f95e-a1ba-4552-8c25-3ae571eac41a" name="Changes" comment="created classes">
+      <change afterPath="$PROJECT_DIR$/res/bee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/pooh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Process.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/task1a/JThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab1/task1a/JThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/task1a/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab1/task1a/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/task1a/SIGN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab1/task1a/SIGN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/task1b/JSemaphore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab1/task1b/JSemaphore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/task1b/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab1/task1b/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Back.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Field.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -51,6 +58,31 @@
     &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\3_course\DistributedComputing\ManagementOfProcessesAndThreads\res" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ua.mykola.lab2.task1.Main" />
+      <module name="ManagementOfProcessesAndThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.ua.mykola.lab2.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,6 +107,8 @@
       <workItem from="1662978086329" duration="6000" />
       <workItem from="1662987316521" duration="609000" />
       <workItem from="1663014042630" duration="296000" />
+      <workItem from="1663103399830" duration="8563000" />
+      <workItem from="1663157540343" duration="14272000" />
     </task>
     <task id="LOCAL-00001" summary="firstLab">
       <created>1662806705690</created>
@@ -90,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662806942901</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rebranding path">
+      <created>1663103547423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663103547423</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created classes">
+      <created>1663103608324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663103608324</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +170,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firstLab" />
     <MESSAGE value="delete comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete comments" />
+    <MESSAGE value="rebranding path" />
+    <MESSAGE value="created classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="created classes" />
   </component>
 </project>
