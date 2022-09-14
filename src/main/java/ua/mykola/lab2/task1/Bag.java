@@ -12,7 +12,6 @@ public class Bag {
             listOfSection.add(i);
         }
     }
-
     public int getUncheckedRow(Bee bee) {
         if (bee != null){
             listOfSection.add(bee.getRowForSearching());
