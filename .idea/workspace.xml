@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8f3f95e-a1ba-4552-8c25-3ae571eac41a" name="Changes" comment="created classes">
-      <change afterPath="$PROJECT_DIR$/res/bee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/pooh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Process.java" afterDir="false" />
+    <list default="true" id="e8f3f95e-a1ba-4552-8c25-3ae571eac41a" name="Changes" comment="first Version">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Back.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bag.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +102,8 @@
       <workItem from="1662987316521" duration="609000" />
       <workItem from="1663014042630" duration="296000" />
       <workItem from="1663103399830" duration="8563000" />
-      <workItem from="1663157540343" duration="14272000" />
+      <workItem from="1663157540343" duration="14738000" />
+      <workItem from="1663180267339" duration="5606000" />
     </task>
     <task id="LOCAL-00001" summary="firstLab">
       <created>1662806705690</created>
@@ -138,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663103608324</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first Version">
+      <created>1663179973093</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663179973093</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +149,56 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="438cd9cc-5be3-471c-939d-40448a985f72">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/3_course/DistributedComputing/ManagementOfProcessesAndThreads/src/main/java/ua/mykola/lab2/task1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="484096fd-2203-4b50-b4b0-2ab39b721886">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/3_course/DistributedComputing/ManagementOfProcessesAndThreads/src/main/java/ua/mykola/lab2/task2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -155,7 +207,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="findingVinniPuh" />
                       </list>
                     </value>
                   </entry>
@@ -166,12 +218,19 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="438cd9cc-5be3-471c-939d-40448a985f72" value="TOOL_WINDOW" />
+        <entry key="484096fd-2203-4b50-b4b0-2ab39b721886" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firstLab" />
     <MESSAGE value="delete comments" />
     <MESSAGE value="rebranding path" />
     <MESSAGE value="created classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="created classes" />
+    <MESSAGE value="first Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="first Version" />
   </component>
 </project>

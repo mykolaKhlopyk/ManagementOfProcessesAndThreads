@@ -1,33 +1,22 @@
 package main.java.ua.mykola.lab2.task1;
 
-public class Bag {
-    boolean[] listOfRows;
+import java.util.Deque;
+import java.util.LinkedList;
+import java.util.Queue;
 
+public class Bag {
+    Queue<Integer> listOfSection;
     Bag(int numberOfRows) {
-        listOfRows = new boolean[numberOfRows];
+        listOfSection=new LinkedList<>();
+        for (int i = 0; i < numberOfRows; i++) {
+            listOfSection.add(i);
+        }
     }
 
-    public synchronized int getUncheckedRow(Bee bee) {
-        int freeRawIndex = listOfRows.length ;
-        for (int i = listOfRows.length - 1; i >= 0; i--) {
-            if (listOfRows[i]) {
-                freeRawIndex = i+1;
-                break;
-            }
+    public int getUncheckedRow(Bee bee) {
+        if (bee != null){
+            listOfSection.add(bee.getRowForSearching());
         }
-        if (freeRawIndex == listOfRows.length){
-            for (int i = 0; i < listOfRows.length - 1; i++) {
-                if (!listOfRows[i]) {
-                    freeRawIndex = i;
-                    break;
-                }
-            }
-        }
-        if (bee != null) {
-            listOfRows[bee.getRowForSearching()] = false;
-        }
-        listOfRows[freeRawIndex] = true;
-        System.out.println(freeRawIndex);
-        return freeRawIndex;
+        return listOfSection.poll();
     }
 }
