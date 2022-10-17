@@ -1,14 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8f3f95e-a1ba-4552-8c25-3ae571eac41a" name="Changes" comment="delete comments">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Main.java" afterDir="false" />
+    <list default="true" id="e8f3f95e-a1ba-4552-8c25-3ae571eac41a" name="Changes" comment="first Version">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Ivanov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/MilitaryBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Nechypurchuk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Petrov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task1/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task1/Bee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task1/Pot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task2/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task2/Hairdresser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/DataBaseAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/MyDataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/ReaderTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/WriterTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/Garden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/Gardener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/Monitor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/Monitor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/Nature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Process.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/SIDE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Soldier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/SoldiersRaw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Turn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/BankTeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/Viewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task2/task2.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/task1a/JThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab1/task1a/JThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/task1a/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab1/task1a/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/task1a/SIGN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab1/task1a/SIGN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/task1b/JSemaphore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab1/task1b/JSemaphore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/task1b/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab1/task1b/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManagementOfProcessesAndThreads.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementOfProcessesAndThreads.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Field.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Process.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +62,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
+  <component name="GOROOT" url="file://C:/Program Files/Go" />
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="findingVinniPuh" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -34,23 +86,143 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EMIz7RN1K1VeDpO0y9sBGa2IUg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go Application&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/3_course/OS/lab1.jar&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.097751714&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\3_course\DistributedComputing\ManagementOfProcessesAndThreads\src\main\java\ua\mykola\modul\task2" />
+      <recent name="D:\3_course\DistributedComputing\ManagementOfProcessesAndThreads\res" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.java.ua.mykola.lab3.task1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main.java.ua.mykola.modul.task1.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ua.mykola.lab4.task2.Main" />
+      <module name="ManagementOfProcessesAndThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.ua.mykola.lab4.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.ua.mykola.lab3.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ua.mykola.lab3.task1.Main" />
+      <module name="ManagementOfProcessesAndThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.ua.mykola.lab3.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.ua.mykola.lab3.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ua.mykola.lab3.task2.Main" />
+      <module name="ManagementOfProcessesAndThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.ua.mykola.lab3.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.ua.mykola.lab5.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ua.mykola.lab5.task1.Main" />
+      <module name="ManagementOfProcessesAndThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.ua.mykola.lab5.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.ua.mykola.modul.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ua.mykola.modul.task1.Main" />
+      <module name="ManagementOfProcessesAndThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.ua.mykola.modul.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="ManagementOfProcessesAndThreads" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="ManagementOfProcessesAndThreads" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main.java.ua.mykola.modul.task1.Main" />
+        <item itemvalue="Application.main.java.ua.mykola.lab5.task1.Main" />
+        <item itemvalue="Application.main.java.ua.mykola.lab3.task2.Main" />
+        <item itemvalue="Application.main.java.ua.mykola.lab3.task1.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,6 +247,30 @@
       <workItem from="1662978086329" duration="6000" />
       <workItem from="1662987316521" duration="609000" />
       <workItem from="1663014042630" duration="296000" />
+      <workItem from="1663103399830" duration="8563000" />
+      <workItem from="1663157540343" duration="14738000" />
+      <workItem from="1663180267339" duration="8708000" />
+      <workItem from="1663236666763" duration="2114000" />
+      <workItem from="1663261814181" duration="8312000" />
+      <workItem from="1663276520578" duration="11330000" />
+      <workItem from="1663339600210" duration="51000" />
+      <workItem from="1663363110212" duration="1186000" />
+      <workItem from="1663365208770" duration="1042000" />
+      <workItem from="1663366849263" duration="3030000" />
+      <workItem from="1663705703943" duration="4035000" />
+      <workItem from="1663754417849" duration="13633000" />
+      <workItem from="1663832284748" duration="8000" />
+      <workItem from="1663838872129" duration="15454000" />
+      <workItem from="1664046123685" duration="5111000" />
+      <workItem from="1664116214851" duration="3107000" />
+      <workItem from="1664194825813" duration="800000" />
+      <workItem from="1664557062681" duration="7122000" />
+      <workItem from="1664565628520" duration="4942000" />
+      <workItem from="1664632270116" duration="13890000" />
+      <workItem from="1664825737489" duration="9621000" />
+      <workItem from="1665165478952" duration="10790000" />
+      <workItem from="1665250370448" duration="984000" />
+      <workItem from="1666015660042" duration="8583000" />
     </task>
     <task id="LOCAL-00001" summary="firstLab">
       <created>1662806705690</created>
@@ -90,7 +286,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662806942901</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="rebranding path">
+      <created>1663103547423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663103547423</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created classes">
+      <created>1663103608324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663103608324</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first Version">
+      <created>1663179973093</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663179973093</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,15 +316,23 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="MAIN">
+        <entry key="438cd9cc-5be3-471c-939d-40448a985f72">
           <value>
             <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/3_course/DistributedComputing/ManagementOfProcessesAndThreads/src/main/java/ua/mykola/lab2/task1" />
                       </list>
                     </value>
                   </entry>
@@ -116,12 +341,70 @@
             </State>
           </value>
         </entry>
+        <entry key="484096fd-2203-4b50-b4b0-2ab39b721886">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/3_course/DistributedComputing/ManagementOfProcessesAndThreads/src/main/java/ua/mykola/lab2/task2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="438cd9cc-5be3-471c-939d-40448a985f72" value="TOOL_WINDOW" />
+        <entry key="484096fd-2203-4b50-b4b0-2ab39b721886" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firstLab" />
     <MESSAGE value="delete comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete comments" />
+    <MESSAGE value="rebranding path" />
+    <MESSAGE value="created classes" />
+    <MESSAGE value="first Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="first Version" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
 </project>
