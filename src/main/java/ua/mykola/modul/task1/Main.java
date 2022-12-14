@@ -17,7 +17,7 @@ public class Main {
         Task transferMoney = b -> {
         };
         Task pay = b -> {
-            b.removeCash(15000);
+            b.removeCash(1500);
         };
         Viewer viewer = new Viewer();
         BankTeller bankTellerFirst = new BankTeller(viewer);
