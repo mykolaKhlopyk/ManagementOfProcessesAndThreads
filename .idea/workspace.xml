@@ -1,58 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8f3f95e-a1ba-4552-8c25-3ae571eac41a" name="Changes" comment="first Version">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Ivanov.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/MilitaryBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Nechypurchuk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Petrov.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task1/Bear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task1/Bee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task1/Pot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task2/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task2/Hairdresser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab3/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/DataBaseAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/MyDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/ReaderTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/Writer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/WriterTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task1/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/Garden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/Gardener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/Monitor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/Monitor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/Nature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab4/task2/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Process.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/SIDE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/SoldiersRaw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Turn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/BankTeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/Viewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task2/task2.go" afterDir="false" />
+    <list default="true" id="e8f3f95e-a1ba-4552-8c25-3ae571eac41a" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/MyBarrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Recruits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/task1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task2/Changer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task2/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task2/task2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab6/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab6/main/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab6/main/Multiplying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab6/multiplying/CannonsMethodMatrixMultiplying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab6/multiplying/FoxesMethodForMatrixMultiplying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab6/multiplying/SequentialMatrixMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab6/multiplying/TapeMatrixMultiplying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab6/task.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ManagementOfProcessesAndThreads.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ManagementOfProcessesAndThreads.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bear.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Bee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Field.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task1/Process.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab2/task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Process.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/SIDE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Soldier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/SoldiersRaw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/lab5/task1/Turn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/BankTeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/BankTeller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/mykola/modul/task1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +35,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Go Application" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -121,6 +94,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\3_course\DistributedComputing\ManagementOfProcessesAndThreads\src\main\java\ua\mykola\lab6" />
       <recent name="D:\3_course\DistributedComputing\ManagementOfProcessesAndThreads\src\main\java\ua\mykola\modul\task2" />
       <recent name="D:\3_course\DistributedComputing\ManagementOfProcessesAndThreads\res" />
     </key>
@@ -128,26 +102,13 @@
       <recent name="main.java.ua.mykola.lab3.task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main.java.ua.mykola.modul.task1.Main">
+  <component name="RunManager" selected="Application.main.java.ua.mykola.lab5.task2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.ua.mykola.lab4.task2.Main" />
+      <option name="MAIN_CLASS_NAME" value="main.java.ua.mykola.lab6.main.Main" />
       <module name="ManagementOfProcessesAndThreads" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.ua.mykola.lab4.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main.java.ua.mykola.lab3.task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.ua.mykola.lab3.task1.Main" />
-      <module name="ManagementOfProcessesAndThreads" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.ua.mykola.lab3.task1.*" />
+          <option name="PATTERN" value="main.java.ua.mykola.lab6.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,6 +135,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.java.ua.mykola.lab5.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.java.ua.mykola.lab5.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.ua.mykola.lab5.task2.Main" />
+      <module name="ManagementOfProcessesAndThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.ua.mykola.lab5.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main.java.ua.mykola.modul.task1.Main" />
+        <item itemvalue="Application.main.java.ua.mykola.lab5.task2.Main" />
         <item itemvalue="Application.main.java.ua.mykola.lab5.task1.Main" />
-        <item itemvalue="Application.main.java.ua.mykola.lab3.task2.Main" />
-        <item itemvalue="Application.main.java.ua.mykola.lab3.task1.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.main.java.ua.mykola.modul.task1.Main" />
+        <item itemvalue="Application.main.java.ua.mykola.lab3.task2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +244,15 @@
       <workItem from="1664825737489" duration="9621000" />
       <workItem from="1665165478952" duration="10790000" />
       <workItem from="1665250370448" duration="984000" />
-      <workItem from="1666015660042" duration="8583000" />
+      <workItem from="1666015660042" duration="9790000" />
+      <workItem from="1666030497740" duration="81000" />
+      <workItem from="1667313498077" duration="31635000" />
+      <workItem from="1667463637876" duration="9000" />
+      <workItem from="1668980938243" duration="596000" />
+      <workItem from="1669042855245" duration="12000" />
+      <workItem from="1669909670001" duration="612000" />
+      <workItem from="1670168666705" duration="1283000" />
+      <workItem from="1671036610447" duration="877000" />
     </task>
     <task id="LOCAL-00001" summary="firstLab">
       <created>1662806705690</created>
@@ -307,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663179973093</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".">
+      <created>1666025239797</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666025239797</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,7 +390,8 @@
     <MESSAGE value="rebranding path" />
     <MESSAGE value="created classes" />
     <MESSAGE value="first Version" />
-    <option name="LAST_COMMIT_MESSAGE" value="first Version" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>

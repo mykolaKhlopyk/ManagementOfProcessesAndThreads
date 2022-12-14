@@ -37,6 +37,7 @@ public class BankTeller extends Thread {
                     client.task.doTaskWithMoney(this);
                     viewer.checkAndDeleteOrAddCash();
                     sleep((int) (3000));
+                    System.out.println(client);
                 } catch (InterruptedException e) {
                     throw new RuntimeException(e);
                 }
